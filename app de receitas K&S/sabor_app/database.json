@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nome": "Bolo de Milho  Cremoso",
+        "categoria": "Festa Junina",
+        "imagem": "https://i.imgur.com/yQvg8F8.jpeg"
+    },
+    {
+        "id": 2,
+        "nome": "Pamonha Tradicional",
+        "categoria": "Festa Junina",
+        "imagem": "https://i.imgur.com/W63FGsT.jpeg"
+    },
+    {
+        "id": 3,
+        "nome": "Pé de Moleque",
+        "categoria": "Festa Junina",
+        "imagem": "https://i.imgur.com/Vc9yXgb.jpeg"
+    }
+]

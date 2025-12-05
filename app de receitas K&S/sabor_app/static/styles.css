@@ -1,0 +1,45 @@
+body {
+    font-family: 'Ppopppins', sans-serif;
+    background-color: #FFF4EC;
+    margin: 0;
+    padding: 0;
+    color: #4A2E2A;
+} 
+
+header {
+    background-color: #D97941;
+    padding: 20px;
+    text-align: center;
+    color: #fff;
+    font-size: 26px;
+    border-bottom-right-radius: 25px;
+}
+.container {
+    padding:20px;
+}
+
+.card {
+    background-color: #ffffff;
+    border-radius: 20px;
+    padding:15px;
+    margin-bottom: 20px;
+    box-shadow: 0px 5px 20px #d7b7a0;
+}
+.card img {
+    width: 100%;
+    border-radius: 15px;
+}
+.card h3{
+    margin-top: 10px;
+    font-size: 20px;
+    color: #D97941;
+}
+.btn {
+    background-color: #B97941;
+    padding: 12px 20px;
+    border-radius: 12px;
+    color: white;
+    text-decoration: nome;
+    display: inline-block;
+    margin-top: 5px;
+}
